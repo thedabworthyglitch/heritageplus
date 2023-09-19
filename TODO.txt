@@ -1,0 +1,11 @@
+[ ] - fix alignments
+
+[ ] - start working on other pages
+
+[ ] - fix up the styling a bit
+
+[ ] - implement global uniformity
+
+[ ] - add animations(?)
+
+[ ] - replace all placeholder images with monumental things
